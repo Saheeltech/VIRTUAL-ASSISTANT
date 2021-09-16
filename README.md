@@ -1,4 +1,4 @@
-# FRIDAY-MY-VIRTUAL-ASSISTANT
+# FRIDAY-MY-VIRTUAL-ASSISTANT using Python
 Artificial assistance created for PC
 DEPENDENCIES:
 1)  pyttsx3
